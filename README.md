@@ -1,1 +1,1 @@
-# SpaceHeroPrivacyPolicy
+Declaro, tanto quanto é do meu conhecimento e crença, que não programei este aplicativo para coletar nenhuma informação de identificação pessoal. Todos os dados criados por você (o usuário) são armazenados apenas no seu dispositivo e podem ser apagados limpando os dados do aplicativo ou desinstalando o aplicativo.
